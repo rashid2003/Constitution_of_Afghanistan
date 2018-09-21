@@ -1,6 +1,6 @@
 ---
 layout: article
-chapter: اصول و مقدمات 
+chapter: حقوق اساسي و وجايب اتباع 
 order: 2.5
 title: تاریخچه گنو/لینوکس
 ---
