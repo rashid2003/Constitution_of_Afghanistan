@@ -1,6 +1,6 @@
 ---
 layout: onepage
-title: لینوکس و زندگی
+title: قانون اساسی افغانستان
 ---
 
 <% for article in @getCollection("html").findAllLive({relativeOutDirPath: "chapters"},[{order:1}]).toJSON(): %>
@@ -11,7 +11,7 @@ title: لینوکس و زندگی
   <% @previous_chapter = article.chapter %>
  <% end %>
 
-<hr><b>لینوکس و زندگی</b>. نوشته جادی www.jadi.net</b>
+<hr><b>قانون اساسی افغانستان</b>. نوشته جادی www.jadi.net</b>
 برای دسترسی به آخرین نسخه کتاب در فرمت‌های مختلف و همچنین حمایت مالی از پروژه کتاب‌هایی برای گیک‌ها، به سایت www.jadi.ir و بخش <b>حمایت</b> مراجعه کنید.
 <h1 class="bg-primary"><%- article.title %></h1 > 
 
