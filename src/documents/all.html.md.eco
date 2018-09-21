@@ -11,8 +11,6 @@ title: قانون اساسی افغانستان
   <% @previous_chapter = article.chapter %>
  <% end %>
 
-<hr><b>قانون اساسی افغانستان</b>. نوشته جادی www.jadi.net</b>
-برای دسترسی به آخرین نسخه کتاب در فرمت‌های مختلف و همچنین حمایت مالی از پروژه کتاب‌هایی برای گیک‌ها، به سایت www.jadi.ir و بخش <b>حمایت</b> مراجعه کنید.
 <h1 class="bg-primary"><%- article.title %></h1 > 
 
 <%- article.content %> 
