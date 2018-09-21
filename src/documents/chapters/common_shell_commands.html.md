@@ -1,6 +1,6 @@
 ---
 layout: article
-chapter: مباحث پیشرفته 
+chapter: رئيس جمهور 
 order: 22
 title: دستورات معمول خط فرمان
 ---
