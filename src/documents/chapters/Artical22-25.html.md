@@ -1,7 +1,7 @@
 ---
 layout: article
-chapter: فصل دوم (دولت ) 
-order: 2.2
+chapter: فصل دوم (حقوق اساسي و وجايب اتباع ) 
+order: 3.2
 title: مادۀ بیست و دوم - بیست و پنجم 
 
 ---
