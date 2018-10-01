@@ -2,7 +2,7 @@
 layout: article
 chapter: فصل دوم (دولت ) 
 order: 2
-title: مادۀ اول: 
+title: مادۀ اول 
 
 ---
 
