@@ -1,6 +1,6 @@
 ---
 layout: article
-chapter: فصل اول 
+chapter: فصل دوم (دولت ) 
 order: 2
 title: مادۀ اول 
 
