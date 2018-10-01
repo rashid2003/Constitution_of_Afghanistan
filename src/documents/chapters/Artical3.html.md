@@ -1,7 +1,7 @@
 ---
 layout: article
 chapter: فصل دوم (دولت ) 
-order: 2.8
+order: 2.3
 title: مادۀ سوم: 
 
 ---
