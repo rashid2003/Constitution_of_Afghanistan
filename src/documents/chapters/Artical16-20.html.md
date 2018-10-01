@@ -1,7 +1,7 @@
 ---
 layout: article
 chapter: فصل دوم (دولت ) 
-order: 2.7
+order: 2.8
 title: مادۀ هفتم 
 
 ---
