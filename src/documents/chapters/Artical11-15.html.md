@@ -1,7 +1,7 @@
 ---
 layout: article
 chapter: فصل دوم (دولت ) 
-order: 2.4
+order: 2.5
 title: مادۀ یازدهم - بیستم 
 
 ---
