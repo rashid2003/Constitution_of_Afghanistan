@@ -1,7 +1,7 @@
 ---
 layout: article
-chapter: مادۀ اول - مادۀ بيست و يکم
-order: .1
+chapter: فصل دوم ( دولت )
+order: 1
 title: مادۀ اول - مادۀ بيست و يکم
 
 ---
