@@ -2,7 +2,7 @@
 layout: article
 chapter: فصل دوم (دولت ) 
 order: 2.4
-title: مادۀ چهارم 
+title: مادۀ یازدهم - بیستم 
 
 ---
 
