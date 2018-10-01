@@ -1,6 +1,6 @@
 ---
 layout: article
-chapter: فصل دوم (دولت ) 
+chapter: فصل اول (دولت ) 
 order: 2.2
 title: مادۀ اول - پنجم 
 
