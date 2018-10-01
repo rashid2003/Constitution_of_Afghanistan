@@ -10,7 +10,7 @@ order: 1
 
 این سایت نمونه ی آزادیست از قانون اساسی افغانستان تصویب شده توسط لویی جرگه افغانستان.
 
- [ ازش حمایت کنین](/support.html.md).
+ [ ازش حمایت کنین](/support.html).
 
 
 <a href="/about.html" class="clearfix btn btn-lg btn-default" >شروع به خواندن کنید</a>
