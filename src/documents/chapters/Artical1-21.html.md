@@ -1,6 +1,6 @@
 ---
 layout: article
-chapter: فصل اول (دولت( 
+chapter: فصل اول 
 order: 1
 title: مادۀ اول - مادۀ بيست و يکم
 
